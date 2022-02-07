@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarveshk76
 - 👀 I’m interested in Learning new things and technologies
-- 🌱 I’m currently learning Figma, node.js, php
+- 🌱 I’m currently learning ML algorithms, Flutter, AWS, Docker.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kulkarnisarvesh1@gmail.com
 
